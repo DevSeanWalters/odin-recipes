@@ -2,7 +2,7 @@
 
 This project will consist of an HTML only site
 wherein I will create a few pages of recipes copied
-from online resources.
+from www.allrecipes.com.
 
 Each recipe will have a picture of the dish, the
 ingredients needed, and the cooking directions.
